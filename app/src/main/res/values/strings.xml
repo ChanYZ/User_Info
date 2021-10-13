@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">User Info</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_phone_no">Enter your phone number</string>
+    <string name="enter_address">Enter your house address</string>
+    <string name="enter_email">Enter your email address</string>
+    <string name="Enter_birth_date">DD/MM/YYYY</string>
+    <string name="toast_message">Your information have been saved, thank you for the cooperation</string>
+    <string name="please_fill_in_the_information_below">Please fill in the information below</string>
+    <string name="name">Name:</string>
+</resources>
